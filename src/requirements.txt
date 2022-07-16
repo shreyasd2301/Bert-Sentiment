@@ -1,0 +1,8 @@
+Flask==2.1.2
+joblib==1.1.0
+numpy==1.22.4
+pandas==1.4.3
+scikit-learn
+torch
+tqdm==4.64.0
+transformers==4.19.3
